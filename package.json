@@ -1,0 +1,11 @@
+{
+  "name": "cypress-buger-test",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta no burger eats",
+  "main": "index.js",
+  "author": "Amanda A Arruda",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
